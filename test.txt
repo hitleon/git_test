@@ -1,2 +1,2 @@
 git hello world
-#2 second line
+#2. second line
