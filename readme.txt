@@ -8,6 +8,8 @@ remote branch git_test4 & git_test3
 test merge conflict
 test merge conflict
 add feature 1
+add feature 2
 update feature1
 update feature1 1
 update feature1 2
+update feature2
