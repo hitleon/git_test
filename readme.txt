@@ -6,3 +6,4 @@ test --no-ff
 test --no-ff since last commit is fast-forward 
 remote branch git_test4 & git_test3
 test diff 1
+test diff 2
