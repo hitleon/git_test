@@ -9,3 +9,4 @@ test merge conflict
 test merge conflict
 add feature 1
 feature 2
+update feature1
