@@ -16,3 +16,4 @@ update feature2
 test diff 1
 test diff 2
 git2 update
+git1 update
