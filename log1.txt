@@ -1,0 +1,43 @@
+*   646087d solve conflict
+|\  
+| * fc2baf1 test2.txt: dev modify
+* | 0457d3f test2.txt: master modify
+|/  
+*   2f042ad fix merge conflict
+|\  
+| * 0bf4fd6 test1: dev modify
+* | 9a5cf25 test1: master modify
+* |   fa6b6d3 fix merge conflict
+|\ \  
+| |/  
+| * 5b35668 dev modiy
+* | a324854 master modify
+|/  
+* a3a99ea modified through dev branch, 2nd
+* d9de65f modified through dev branch
+* 6dfbe38 rm LICENSE
+*   76083da fix conflict
+|\  
+| * c160d39 add 3rd line to test2.txt
+* | 0baa7f5 add git_test2 to test2.txt
+|/  
+*   27a2f74 Merge branch 'master' of github.com:hitleon/git_test
+|\  
+| * 2aee0ed delete test.txt again!
+| * ec47d46 add test.txt
+| * 21e6cf7 add line 5
+| * 367acf1 understand stage
+| * 2d5e4b9 add line3 and delete line2
+| * df4176e add line2
+| * de95728 add line 1
+| * 4c5cf60 readd readme.txt
+| * 082f812 add readme.txt
+* a852a9f git rm test1.txt
+* 6a82df7 add test1.txt to test git rm
+* fb0ba43 delete test1.txt
+* 75cdcf7 add test1.txt
+* afb9071 add 2nd line to test2.txt
+* 0f8116b add test2.txt, add 3rd line to test.txt
+* 019c5d8 add dot at 2nd line
+* f373e8a #2. add 2nd line
+* d780546 #1. my first commit
