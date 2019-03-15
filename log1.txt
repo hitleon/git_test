@@ -1,3 +1,7 @@
+* f8a8447 test --no-ff
+* 6ceb998 test --no-ff
+* ccb9b49 add log2.txt
+* 1f7b49b add log1.txt
 *   646087d solve conflict
 |\  
 | * fc2baf1 test2.txt: dev modify
