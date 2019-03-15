@@ -15,3 +15,4 @@ update feature1 2
 update feature2
 test diff 1
 test diff 2
+git1 update
