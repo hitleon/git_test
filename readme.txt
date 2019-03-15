@@ -7,3 +7,4 @@ test --no-ff since last commit is fast-forward
 remote branch git_test4 & git_test3
 test merge conflict
 test merge conflict
+feature 2
