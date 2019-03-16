@@ -18,3 +18,4 @@ test diff 2
 git2 update
 git1 update
 develop feature3
+develop feature4
