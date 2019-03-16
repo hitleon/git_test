@@ -19,3 +19,4 @@ git2 update
 git1 update
 develop feature3
 develop feature4
+update feature3
